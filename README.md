@@ -1,6 +1,6 @@
 <h1 align="center"></h1>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=blue)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=hcarvcamp&left_color=black&right_color=blue)
 
 ## Hey! 👋
 I'm Hugo, a 25 years old web developer from Brazil.
