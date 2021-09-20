@@ -12,7 +12,7 @@ I'm Hugo, a 25 years old web developer from Brazil.
 - 💽 MySQL, SQL
 
 ## Contact
-- [HugocCampelo](https://www.linkedin.com/in/hugoccampelo/) on LinkedIn
+- [MyLinkedIn](https://www.linkedin.com/in/hugoccampelo/)
 - [@hCarvCamp](https://twitter.com/hcarvcamp/) on Twitter
 - [@hCarvCamp](https://www.instagram.com/hcarvcamp/) on Instagram
 - [hCarvCamp#8082](./) on Discord
