@@ -1,7 +1,5 @@
 <h1 align="center"></h1>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=hcarvcamp&left_color=black&right_color=blue)
-
 ## Hey! 👋
 I'm Hugo, a 25 years old web developer from Brazil.
 
@@ -18,3 +16,6 @@ I'm Hugo, a 25 years old web developer from Brazil.
 - [@hCarvCamp](https://twitter.com/hcarvcamp/) on Twitter
 - [@hCarvCamp](https://www.instagram.com/hcarvcamp/) on Instagram
 - [hCarvCamp#8082](./) on Discord
+
+##
+![visitors](https://visitor-badge.glitch.me/badge?page_id=hcarvcamp&left_color=black&right_color=blue)
