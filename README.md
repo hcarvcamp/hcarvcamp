@@ -1,18 +1,20 @@
 <h1 align="center"></h1>
 
 ## Hey! 👋
-I'm Hugo, a 25 years old web developer from Brazil.
+I'm Hugo, a 28 years old Project & Product Manager, and specializing in front end development from Brazil.
 
-- 👥 Developer at [@Oi S.A](https://github.com/)
+- 👥 Project & Product Manager at [@Aggrandize](https://aggrandize.com.br/)
 
 ## Skills
+- 📚 Scrum, Kanban
+- 🚧 Project Management & Product Developer
 - 👨‍💻 TypeScript, JavaScript, PHP, HTML
-- ⚙️ React, Angular
+- ⚙️ React, Angular, Knockout
 - 👁️ SASS, LESS, CSS
 - 💽 MySQL, SQL
 
 ## Contact
-- [MyLinkedIn](https://www.linkedin.com/in/hugoccampelo/)
+- [LinkedIn Profile](https://www.linkedin.com/in/hugoccampelo/)
 - [@hCarvCamp](https://twitter.com/hcarvcamp/) on Twitter
 - [@hCarvCamp](https://www.instagram.com/hcarvcamp/) on Instagram
 - [hCarvCamp#8082](./) on Discord
