@@ -1,9 +1,7 @@
-<h1 align="center"></h1>
+<h1 align="center">Hugo C. Campelo Profile</h1>
 
 ## Hey! 👋
-I'm Hugo, a 28 years old Project & Product Manager, and specializing in front end development from Brazil.
-
-- 👥 Project & Product Manager at [@Aggrandize](https://aggrandize.com.br/)
+I'm Hugo, a 28 years old Project & People Manager, and specializing in front end development from Brazil.
 
 ## Skills
 - 📚 Scrum, Kanban
